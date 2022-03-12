@@ -1,6 +1,23 @@
 {
   "name": "ngx-rad",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "description": "Angular Lirary for Rent A Dumpster",
+  "author": "Gabriel Arroyo",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/gabriel-arroyo/RADLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabriel-arroyo/RADLibrary/issues"
+  },
+  "homepage": "https://github.com/gabriel-arroyo/RADLibrary",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "rent-a-dumpster",
+    "dumpster"
+  ],
   "peerDependencies": {
     "@angular/common": "^13.2.0",
     "@angular/core": "^13.2.0"
